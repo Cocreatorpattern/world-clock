@@ -2,3 +2,11 @@ body {
   background: indigo;
   color: azure;
 }
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
