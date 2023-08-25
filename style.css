@@ -31,6 +31,17 @@ select {
   border-radius: 10px;
 }
 
+#globe {
+  background-color: black;
+  color: white;
+  width: 300px;
+  position: relative;
+  left: 130px;
+  border-radius: 5px;
+  padding: 0.5px;
+  margin: 30px 10px;
+}
+
 .city {
   display: flex;
   margin: 10px 0;
